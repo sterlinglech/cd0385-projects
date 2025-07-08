@@ -40,7 +40,6 @@ confection==0.1.5
 contourpy==1.3.2
 coreforecast==0.0.15
 cryptography==3.4.8
-cupshelpers==1.0
 cycler==0.12.1
 cymem==2.0.11
 datasets==2.14.4
