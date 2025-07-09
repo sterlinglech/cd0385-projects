@@ -44,7 +44,6 @@ cycler==0.12.1
 cymem==2.0.11
 datasets==2.14.4
 dbus-python==1.2.18
-defer==1.0.6
 defusedxml==0.7.1
 dill==0.3.7
 distlib==0.3.4
